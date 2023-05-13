@@ -1,4 +1,4 @@
-# maya-viewport-display-mode-switcher
+# Maya Viewport Display Mode Switcher
 
 [English](README.md)
 

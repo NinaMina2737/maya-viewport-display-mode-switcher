@@ -2,7 +2,6 @@
 
 [Japanese](README-ja.md)
 
-
 ## Environment
 
 - Windows 10
